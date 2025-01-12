@@ -7,6 +7,9 @@
          style="width: 100%; max-width: 600px; border: none;">
 </a>
 
+#
+What is CAPTCHA?
+#
 CAPTCHAs are essential tools for securing websi 
 tes against bots, but developers often need to solve them programmatically for testing or research. In this article, we'll guide you through a Python-based approach to solving CAPTCHAs using the CaptchaSonic Chrome Extension and Selenium.
 #
