@@ -1,6 +1,14 @@
 # How to Solve CAPTCHA Using selenium Python
 
-CAPTCHAs are essential tools for securing websites against bots, but developers often need to solve them programmatically for testing or research. In this article, we'll guide you through a Python-based approach to solving CAPTCHAs using the CaptchaSonic Chrome Extension and Selenium.
+* Sponsored by CaptchaSonic
+<a href="https://captchasonic.com/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/5556b8a3-4691-405c-9284-63be309ad325" 
+         alt="Presskit Card" 
+         style="width: 100%; max-width: 600px; border: none;">
+</a>
+
+CAPTCHAs are essential tools for securing websi 
+tes against bots, but developers often need to solve them programmatically for testing or research. In this article, we'll guide you through a Python-based approach to solving CAPTCHAs using the CaptchaSonic Chrome Extension and Selenium.
 #
 Overview
 The solution involves:
